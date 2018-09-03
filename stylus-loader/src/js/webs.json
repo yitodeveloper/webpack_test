@@ -1,0 +1,20 @@
+{
+    "webs": [
+        {
+            "name": "Google",
+            "website": "google.com"
+        },
+        {
+            "name": "Facebook",
+            "website": "facebook.com"
+        },
+        {
+            "name": "Reddit",
+            "website": "reddit.com"
+        },
+        {
+            "name": "Twitter",
+            "website": "twitter.com"
+        }
+    ]
+}
