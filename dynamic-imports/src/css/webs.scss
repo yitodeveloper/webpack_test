@@ -1,0 +1,8 @@
+$borderWith : 2px + 5px;
+$padding: $borderWith*2;
+
+.Webs {
+    padding: $padding;
+    border: $borderWith dashed orange;
+    background: gray;
+}
